@@ -1,0 +1,8 @@
+// Markdown lint takes care of prettifying these
+*.md
+
+// Do not prettify these
+node_modules
+dist
+build
+.git
